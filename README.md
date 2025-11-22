@@ -1,6 +1,6 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
+	DATE: 25.10.2025
  ##AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
@@ -29,14 +29,16 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+![IMG-20251122-WA0030 1](https://github.com/user-attachments/assets/89ac26a2-c79f-4a57-bd6a-c14c51ac553c)
+
 
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+![IMG-20251122-WA0028 1](https://github.com/user-attachments/assets/25da52ac-4455-4e9f-9cea-893fdce17d52)
+
 
 ## DESIGN
 
@@ -56,22 +58,19 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 3.	Measure the output wave frequency and amplitude.
 ---
 ## TABULATION/OBSERVATION
+![IMG-20251122-WA0027 1](https://github.com/user-attachments/assets/b3010527-f9d7-4e39-9176-786f9c0e6f36)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![IMG-20251122-WA0029 1](https://github.com/user-attachments/assets/6acf784d-7027-422b-93ea-c42247e5f4ca)
 
 
 ---
 ## THEORY
  ##WIEN BRIDGE
+ Date: 01.11.2025
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
 The frequency of oscillation is given by fo = 1/2πRC
 ## APPARATUS REQUIRED
@@ -90,12 +89,14 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+![IMG-20251122-WA0033 1](https://github.com/user-attachments/assets/d92219a4-78d7-491e-9795-49bcd35e6e2c)
+
 
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+![IMG-20251122-WA0032 1](https://github.com/user-attachments/assets/3e143db9-3648-47db-970e-97f67c3e908d)
+
 
 ---
 
@@ -123,20 +124,16 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
+![IMG-20251122-WA0031 1](https://github.com/user-attachments/assets/7e3823f2-dc19-48bc-8a57-921ab97a5ef7)
 
-
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![IMG-20251122-WA0034 1](https://github.com/user-attachments/assets/85937049-aa4b-4be6-b9db-9482f04b7d95)
 
-
----
 ## RESULT:
+
+Thus the RC Phase Shift and Wien Bridge Oscillators are designed and tested using Op-Amp IC 741.
+
+
 
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
