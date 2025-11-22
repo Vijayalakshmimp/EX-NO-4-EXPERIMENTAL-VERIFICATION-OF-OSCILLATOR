@@ -138,4 +138,3 @@ Thus the RC Phase Shift and Wien Bridge Oscillators are designed and tested usin
 
 
 
-Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
