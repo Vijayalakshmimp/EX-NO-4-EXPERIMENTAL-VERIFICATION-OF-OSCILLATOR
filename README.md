@@ -1,7 +1,9 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE: 25.10.2025
- ##AIM:
+	
+DATE: 25.10.2025
+
+## AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
